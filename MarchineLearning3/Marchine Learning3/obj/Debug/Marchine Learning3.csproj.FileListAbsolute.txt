@@ -1,0 +1,62 @@
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\Marchine Learning3.exe.config
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\Marchine Learning3.exe
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\Marchine Learning3.pdb
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine Learning3.csprojAssemblyReference.cache
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.Form1.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.Properties.Resources.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine Learning3.csproj.GenerateResource.cache
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine Learning3.csproj.CoreCompileInputs.cache
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine Learning3.exe
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine Learning3.pdb
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.Form2.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.Login.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.Registro.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.formulario.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.FormLink1.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.FormLink2.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.FormLink3.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.administrador.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.perdido.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\Marchine Learning3.exe.config
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\Marchine Learning3.exe
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\Marchine Learning3.pdb
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine Learning3.csprojAssemblyReference.cache
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.administrador.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.Form1.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.Form2.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.FormLink1.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.FormLink2.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.FormLink3.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.formulario.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.Login.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.perdido.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.Properties.Resources.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.Registro.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine Learning3.csproj.GenerateResource.cache
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine Learning3.csproj.CoreCompileInputs.cache
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine Learning3.exe
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine Learning3.pdb
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\EntityFramework.dll
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\EntityFramework.xml
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine Learning3.csproj.CopyComplete
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.imagen2.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.fotosdesaparecidos.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\obj\Debug\Marchine_Learning3.Comparacion.resources
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\System.Net.Http.dll
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Sergio M Jáquez E\Desktop\Marchine Learning2\Marchine Learning\Marchine Learning3\Marchine Learning3\bin\Debug\Newtonsoft.Json.xml
